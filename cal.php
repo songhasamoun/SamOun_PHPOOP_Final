@@ -1,5 +1,6 @@
 <?php 
-include 'src/functions.php';
+use SamOun\Functions;
+include 'public/vendor/autoload.php';
 
 if(isset($_POST['btn-add'])) {
     if($_POST['operator'] !="") {

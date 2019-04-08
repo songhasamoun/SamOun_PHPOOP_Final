@@ -1,4 +1,5 @@
 <?php
+namespace SamOun;
 class Functions{
     public $firstNumber;
     public $secondNumber;
