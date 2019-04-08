@@ -1,0 +1,14 @@
+body {
+    background:rgb(204, 195, 195);
+}
+h1 {
+    background-image:url('background.jpg');
+    padding:3px;
+}
+
+.col-6 {
+    background-image:url('background.jpg');
+    border-radius:10px;
+    margin-top:40px;
+    box-shadow: 10px 10px  rgb(158, 153, 153);
+}
